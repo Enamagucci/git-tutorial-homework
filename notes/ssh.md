@@ -8,7 +8,7 @@ Assuming you are using Git Bash as instructed:
 
 ### Pre-Requisite
 
-- [Basic CLI Navigation](./navigating_the_cli.md)    
+- [Basic CLI Navigation](./cli_basics.md)    
 - Download Git Bash if you are on Windows: https://git-scm.com/install/
 - Create a directory in your home directory `~/.ssh` and enter it
 
