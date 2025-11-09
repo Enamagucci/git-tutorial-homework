@@ -1,4 +1,7 @@
 # Git
+
+## Main Functions
+
 1. Version Control 
 
 2. Rollback, Audit Trail
@@ -23,21 +26,22 @@ https://git-scm.com/install/
 [x] Create a remote repository
 
 
-[ ] basic git commands
+[x] basic git commands
 	[x] Push repository
         - [x] Git add (staging)
         - [x] Git commit
 	[x] Pull repository
 	[x] Fetch vs Pull
         - [x] Pull is a combination of fetch and merging
-	[ ] Create a branch
-        - [ ] Git branch
-        - [ ] Git checkout -b
-	[ ] merge
-	[ ] Pull request
+	[x] Create a branch
+        - [x] Git branch
+        - [x] Git checkout -b
+	[x] merge
+	[x] Pull request
+    [x] stashing
 
-[ ] init a local repository and connect it to remote
+[x] init a local repository and connect it to remote
 
 [ ] advanced git commands
-    [ ] staging
     [ ] rebasing
+    [ ] revert
