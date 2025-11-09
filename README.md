@@ -1,5 +1,4 @@
 # Git
-4iuhfderiufer
 1. Version Control 
 
 2. Rollback, Audit Trail
