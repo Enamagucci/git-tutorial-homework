@@ -24,11 +24,20 @@ https://git-scm.com/install/
 
 
 [ ] basic git commands
-	[ ] Push repository
-	[ ] Pull repository
-	[ ] Fetch vs Pull
+	[x] Push repository
+        - [x] Git add (staging)
+        - [x] Git commit
+	[x] Pull repository
+	[x] Fetch vs Pull
+        - [x] Pull is a combination of fetch and merging
 	[ ] Create a branch
+        - [ ] Git branch
+        - [ ] Git checkout -b
 	[ ] merge
 	[ ] Pull request
 
 [ ] init a local repository and connect it to remote
+
+[ ] advanced git commands
+    [ ] staging
+    [ ] rebasing
